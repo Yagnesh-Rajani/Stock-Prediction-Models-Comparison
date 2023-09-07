@@ -1,4 +1,4 @@
-![image](https://github.com/Yagnesh-Rajani/Stock-Prediction-Models-Comparison/assets/129909709/f4dc6cf7-63c6-4877-8336-86b310084dd1)# Predicting Stock Market Trends Using Predictive Analytics - Capstone Summary
+# Predicting Stock Market Trends Using Predictive Analytics - Capstone Summary
 Capstone project created by Yagnesh Rajani as a part of the "Data Analytics, Big Data, and Predictive Analytics" certificate offered by the Chang School of Continuing Education (which is part of the Toronto Metropolitan University). This study was supervised by Professor Ceni Babaoglu.
 
 ## Abstract
