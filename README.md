@@ -52,7 +52,7 @@ A seasonal decomposition of each attribute is shown in the image below. This was
 
 ## Time Series Forecasting
 
-## Common Components
+### Common Components
 Each model requires different code to run however there are some areas of overlap, namely the preparation of data for analysis. This common portion of each model is explained below.
 
 In order to prepare the data for analysis, the following steps were taken using Python:
